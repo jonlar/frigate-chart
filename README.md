@@ -1,4 +1,4 @@
-This chart was copied from https://github.com/blakeblackshear/blakeshome-charts. Thar chart seems to have slowed down a bit and I wanted to be able to try out newer versions of frigate. All credits to the original author.
+This chart was copied from https://github.com/blakeblackshear/blakeshome-charts. That chart seems to have slowed down a bit and I wanted to be able to try out newer versions of frigate. All credits to the original author!
 
 I will delete this repo if requested by the original author.
 
